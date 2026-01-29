@@ -11,6 +11,7 @@ Ideal for quick compliance checks and basic instrumentation validation.
 # What it checks ✅ 
 
 Cookies: presence and values for given cookie names.
+
 Page source: substring pattern matches for OneTrust & GTM.
 
 
